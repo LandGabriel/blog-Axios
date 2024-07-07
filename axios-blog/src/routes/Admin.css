@@ -1,0 +1,21 @@
+/* Admin */
+.admin h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #34495e; /* Primary */
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.edit-btn {
+  background-color: #1abc9c; /* Accent */
+  color: #f0f4f8; /* Background */
+}
+
+.delete-btn {
+  background-color: #eb1717; /* Custom Red */
+  color: #f0f4f8; /* Background */
+}
